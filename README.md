@@ -1,7 +1,7 @@
 # Bonjour, je suis Dragos 👋
 
 Dirigeant, entrepreneur et coach, 25 ans dans la tech, basé à Paris.
-Je travaille à l'intersection de l'IA, du Produit et de l'Innovation.
+Je travaille sur des sujets #IA, #Produit et #Innovation.
 
 ## Qui je suis
 
