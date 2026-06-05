@@ -1,4 +1,4 @@
-# Bonjour, je suis Dragos 👋
+# Bonjour, je suis Dragoș 👋
 
 Dirigeant, entrepreneur et coach, 25 ans dans la tech, basé à Paris.
 Je travaille à l'intersection de l'IA, du Produit et de l'Innovation.
@@ -33,5 +33,3 @@ architecture hexagonale et TypeScript strict, déployé en Europe.
 📊 2 100+ commits · 450+ pull requests · 81 cas d'usage · 1 170+ tests
 
 📍 Paris · 💼 [LinkedIn](https://www.linkedin.com/in/dragosdreptate/)
-
-<!-- profil -->
